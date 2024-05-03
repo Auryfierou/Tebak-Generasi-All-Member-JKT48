@@ -1,0 +1,17 @@
+body {
+  color: #514b64;
+  min-height: 100vh;
+  font-family: "Arial", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff4f4;
+}
+label input{
+    display: none;
+}
+.container .dropdown{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
